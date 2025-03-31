@@ -32,7 +32,7 @@ Este repositório contém um exemplo de integração entre MCP e LangGraph, util
 
 ## 📄 Configuração das Credenciais do Google Drive
 
-Para o correto funcionamento do projeto, é necessário obter um arquivo de credenciais do Google Drive e colocá-lo na raiz do projeto com o nome:
+Para o correto funcionamento do projeto, é necessário obter um arquivo de credenciais do Google Drive, pelo Google Cloud Console (https://console.cloud.google.com/) e colocá-lo na raiz do projeto com o nome:
 
 ```
 credentials.json
