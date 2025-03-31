@@ -74,4 +74,4 @@ Caso o `requirements.txt` não instale corretamente as dependências, tente inst
 pip install langchain-mcp-adapters langgraph langchain-openai
 ```
 
-Se precisar de ajuda, abra uma issue! 🚀
+Se precisar de ajuda, só entrar em contato! 🚀
